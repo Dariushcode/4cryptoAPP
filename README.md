@@ -1,2 +1,0 @@
-# 4cryptoAPP
-cryotocarncy app
