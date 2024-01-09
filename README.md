@@ -3,8 +3,7 @@
         <a href="http://dariushcode.ir/">  ⭐️⭐️⭐️DariushCode.IR⭐️⭐️⭐️</a><br>
     </b>
     
-    
-    🪙 دانشگاه یار🪙
+    🪙 Crypto 4 You 🪙
 </h1>
 
 
@@ -26,10 +25,11 @@
     <a href="https://twitter.com/Dariushcode"><b>Twitter</b></a>
 </p>
 
-<p align="center"><img src="https://github.com/Dariushcode/Danshga_Yar/blob/main/images/1.png" alt="AppFlowy Docs & Notes & Wikis" width="1000px" /></p>
-<p align="center"><img src="https://github.com/Dariushcode/Danshga_Yar/blob/main/images/2.png" alt="AppFlowy Databases for Tasks and Projects" width="1000px" /></p>
-<p align="center"><img src="https://github.com/Dariushcode/Danshga_Yar/blob/main/images/3.png.png" alt="AppFlowy Kanban Board for To-Dos" width="1000px" /></p>
+<p align="center"><img src="https://github.com/Dariushcode/4cryptoAPP/blob/main/app-mockup-android-screenshot-1-default/p%20(1).png" alt="AppFlowy Docs & Notes & Wikis" width="1000px" /></p>
+<p align="center"><img src="https://github.com/Dariushcode/4cryptoAPP/blob/main/app-mockup-android-screenshot-1-default/p%20(2).png" alt="AppFlowy Databases for Tasks and Projects" width="1000px" /></p>
+<p align="center"><img src="https://github.com/Dariushcode/4cryptoAPP/blob/main/app-mockup-android-screenshot-1-default/p%20(3).png" alt="AppFlowy Kanban Board for To-Dos" width="1000px" /></p>
 <p align="center"><img src="https://github.com/Dariushcode/4cryptoAPP/blob/main/app-mockup-android-screenshot-1-default/p%20(4).png" alt="AppFlowy OpenAI GPT Writers" width="1000px" /></p>
+
 
 ##  Installation
 
